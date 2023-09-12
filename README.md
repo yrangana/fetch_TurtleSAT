@@ -2,9 +2,10 @@
 Fetch Turtle SAT application and scrape images
 
 =============================================================
-### Requirements
 
-This repository is to develop a script to scrape the Turtle SAT application and extract image URLs on markers on the map.
+### How to use
+
+main.py is the main script to run. It will fetch image urls since '2010-01-01' and save to a csv file called image_urls.txt.
 
 ### Features to be developed
 
