@@ -53,3 +53,4 @@ if __name__ == '__main__':
     image_urls = fetch_turtleSat()
     with open('./image_urls.txt', 'w') as filehandle:
         json.dump(image_urls, filehandle)
+        
