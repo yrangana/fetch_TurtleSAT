@@ -166,3 +166,6 @@ cython_debug/
 #Image URL files
 image_urls*
 
+#Images
+images/
+
