@@ -75,7 +75,7 @@ def download_images(img_urls):
                   , desc=f'Downloading Images type : {type}'))
 
 if __name__ == '__main__':
-    types = [1,2,5,6]
+    types = [1,2,5,6,7]
     for type in types:
         recordType = type # global variable
         print(f"Record type {type}")
